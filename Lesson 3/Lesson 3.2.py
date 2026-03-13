@@ -1,0 +1,33 @@
+# print(100 >= 100)
+# print(200 + 100 >= 300)
+# a = 33
+# s = 66
+# itogo = a < s
+# print(itogo)
+# a = input()
+# d = input()
+# print(a > d)
+# print(a < d)
+# print(a, d)
+# A = "QWE"
+# s = "QWE"
+# print(A <= s)
+# var1 = int(input(1))
+# var2 = int(input(2))
+# print(var1 >= var2)
+# a = 2
+# print(a >= 2 and a <= 2)
+# print(2 > a >= 3)
+# s = 4
+# print(s >= 4 or s <= 4)
+# name = "Мира"
+# print(("ми" in name) or ("а" in name))
+# s = 3
+# print(not ((s % 1) and (s % 2)))
+# s = 325423
+# print(bool (s))
+# print(bool(" "))
+# print(bool(5376))
+# print(bool(2123))
+# print(bool("231"))
+# print(bool(""))
