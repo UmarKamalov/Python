@@ -98,3 +98,50 @@ print (type(lesson5))
 print (type(lesson5))
 results = "Age" + " " + "29"
 print (results)
+
+name = 'Ivan'
+age = 30
+height = 1.78
+print (name, age, height)
+
+X = 10
+print (type(X)) #выведет тип int
+X = 25.5
+print (type(X)) #выведет тип float
+X = "PYTHON"
+print (type(X)) #выведет тип str
+print (X) #выведет только последний присвоенный объект
+
+a = 7
+b = a
+print (b)
+a = 10
+print (b) #объекту была присвоена два переменных, затем переменную "а" "отклеили" и "приклеили к следующему объекту.
+print (a)
+
+x = 1000
+y = 1000
+z = 1000
+print (x, y, z)
+x, y, z = 10, 20, 30
+print (x,y,x)
+
+a = 5
+b = 10
+a,b = b, a
+print (a,b)
+# или
+a, b = 10, 5
+print (a)
+print (b)
+
+var1 = 42
+var2 = 3.4
+var3 = "Мир"
+print (type(var1))
+print (type(var2))
+print (type(var3))
+print (str(var1))
+var1 = str(var1)
+print (type(var1))
+# тут как бы говорит, мол, сходи к переменной var1, возьми значение и преврати их в строку
