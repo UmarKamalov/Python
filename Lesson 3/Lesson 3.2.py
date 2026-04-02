@@ -2,8 +2,8 @@
 # print(200 + 100 >= 300)
 # a = 33
 # s = 66
-# itogo = a < s
-# print(itogo)
+# fvs = a < s
+# print(fvs)
 # a = input()
 # d = input()
 # print(a > d)
@@ -31,3 +31,6 @@
 # print(bool(2123))
 # print(bool("231"))
 # print(bool(""))
+# a = "Даниил Николаев"
+# print(a[len (a) - 1:-16:-1])
+# print (a[0:15])
